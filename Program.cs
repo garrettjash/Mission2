@@ -13,7 +13,7 @@ internal class Program
     {
         // Create a new instance of the rollDice class
         RollDice rd = new RollDice();
-
+        
         // Get user input 
         System.Console.WriteLine("Welcome to the dice throwing simulator!  \r\nHow many dice rolls would you like to simulate?");
 
